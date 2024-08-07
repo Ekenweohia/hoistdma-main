@@ -845,7 +845,7 @@ section,
       rgba(0, 0, 0, 0.6),
       rgba(0, 0, 0, 0.6)
     ),
-    url('/assets/img/bgimage.jpg') no-repeat center center;
+    url('assets/img/bgimage.jpg') no-repeat center center;
   background-size: cover;
   padding: 120px 0 60px 0;
   display: flex;
